@@ -21,7 +21,29 @@ As one of the new contractors, the CISO has given me several directives:
 
 6) Final Security Plan with Timeline - Put together a security roadmap report for the organization that includes what we can either fix or mitigate in the next 90 days, 6 months, and 12-18 months. This roadmap will help us reduce risk across the organization, plan our budget appropriately, and helps us keep our cyber insurance premiums lower because we can show a more mature security posture to insurance brokers.
 
-## Vulnerbility Scan Report
+## 1- Vulnerbility Scan Report
 
 [Acme CISO Directive 1- Vulnerability Scan.pdf](https://github.com/user-attachments/files/15915827/Acme.CISO.Directive.1-.Vulnerability.Scan.pdf)
-![Acme-CISO-Directive-1-Vulnerability-Scan](https://github.com/sgennarelli13/Flatiron-Capstone/assets/152432975/a66532ec-8b8b-4ac8-9124-582046706f87)
+
+## 2- Honeypot Solution
+
+[Acme CISO Directive 2- Honeypot Solution.pdf](https://github.com/user-attachments/files/15916081/Acme.CISO.Directive.2-.Honeypot.Solution.pdf)
+
+## 3- Internal Ticketing System
+
+[Acme CISO Directive 3- Internal Ticketing System.pdf](https://github.com/user-attachments/files/15916096/Acme.CISO.Directive.3-.Internal.Ticketing.System.pdf)
+
+## 4- IDS and Brocade Log Analysis
+
+[Acme CISO Directive 4- IDS and Brocade Log Analysis.pdf](https://github.com/user-attachments/files/15916103/Acme.CISO.Directive.4-.IDS.and.Brocade.Log.Analysis.pdf)
+
+## 5- Network Assetts Report / Topology
+
+[Acme CISO Directive 5- Network Assets Report.pdf](https://github.com/user-attachments/files/15916112/Acme.CISO.Directive.5-.Network.Assets.Report.pdf)
+
+[Acme CISO Directive 5- Network Topology.pdf](https://github.com/user-attachments/files/15916115/Acme.CISO.Directive.5-.Network.Topology.pdf)
+
+## 6- Security Plan
+
+[Acme CISO Directive 6- Security Plan.pdf](https://github.com/user-attachments/files/15916120/Acme.CISO.Directive.6-.Security.Plan.pdf)
+
