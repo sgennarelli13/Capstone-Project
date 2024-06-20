@@ -20,3 +20,7 @@ As one of the new contractors, the CISO has given me several directives:
 5) Gather Network Assets - Conduct an asset search and report the findings. Also create a new topology map to reflect the current network.
 
 6) Final Security Plan with Timeline - Put together a security roadmap report for the organization that includes what we can either fix or mitigate in the next 90 days, 6 months, and 12-18 months. This roadmap will help us reduce risk across the organization, plan our budget appropriately, and helps us keep our cyber insurance premiums lower because we can show a more mature security posture to insurance brokers.
+
+## Vulnerbility Scan Report
+
+[Acme CISO Directive 1- Vulnerability Scan.pdf](https://github.com/user-attachments/files/15915827/Acme.CISO.Directive.1-.Vulnerability.Scan.pdf)
