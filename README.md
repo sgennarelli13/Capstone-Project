@@ -24,3 +24,4 @@ As one of the new contractors, the CISO has given me several directives:
 ## Vulnerbility Scan Report
 
 [Acme CISO Directive 1- Vulnerability Scan.pdf](https://github.com/user-attachments/files/15915827/Acme.CISO.Directive.1-.Vulnerability.Scan.pdf)
+![Acme-CISO-Directive-1-Vulnerability-Scan](https://github.com/sgennarelli13/Flatiron-Capstone/assets/152432975/a66532ec-8b8b-4ac8-9124-582046706f87)
