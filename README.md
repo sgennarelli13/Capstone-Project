@@ -1,5 +1,5 @@
-# Flatiron-Capstone
-My Cyebersecurity Engineering final capstone project for Flatiron School.
+# Capstone Project
+A hands-on project at Flatiron School, resulting in a detailed professional report that demonstrates my proficiency in addressing real-world security challenges.
 
 ## Abstract
 The Cybersecurity Capstone combines all the skills acquired over the course and provides an opportunity to demonstrate teamwork and competency. Completing the capstone will require using the technical and communication skills learned throughout the program, as well as critical thinking.
